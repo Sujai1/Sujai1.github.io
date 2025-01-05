@@ -9,7 +9,8 @@ I am a PhD student at Cornell Tech in Operations Research. I am interested in de
   - [Proceedings of the 38th Conference on Neural Information Processing Systems (**NeurIPS**), 2024](https://openreview.net/pdf?id=xnmm1jThkv)
 
 ## Preprints
-LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach (Sujai Hiremath, [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/))[Arxiv Link]((https://arxiv.org/abs/2410.11759))
+- **LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**  *Hiremath S., Ghosal P., Gan K.*
+  - [Arxiv October 2024]((https://arxiv.org/abs/2410.11759))
 
 ### Working Projects
 
