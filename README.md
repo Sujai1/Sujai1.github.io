@@ -14,11 +14,11 @@ I am a PhD student in Operations Research at Cornell Tech. I am interested in de
 ## Working Projects
 - Causal Discovery + Diffusion (with [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
 
-## Education
+## Links
+- Resume
+- LinkedIn
+- Contact
 
-2023-2028: Operations Research, PhD, Cornell Tech.
-
-2019-2023: Applied and Computational Mathematics, BS, Caltech.
 
 
 
