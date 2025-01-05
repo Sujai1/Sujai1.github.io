@@ -6,10 +6,10 @@ I am a PhD student at Cornell Tech in Operations Research. I am interested in de
 ## Published Papers
 
 Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models (Sujai Hiremath, [Jacqueline Maasch](https://jmaasch.github.io/), Mengxiao Gao, [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/))
-[_NeurIPS 2024_](https://openreview.net/pdf?id=xnmm1jThkv)
+- [_NeurIPS 2024_](https://openreview.net/pdf?id=xnmm1jThkv)
 
 ## Preprints
-[LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach](https://arxiv.org/abs/2410.11759) (Sujai Hiremath, [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/))
+LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach (Sujai Hiremath, [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/))[Arxiv Link]((https://arxiv.org/abs/2410.11759))
 
 ### Working Projects
 
