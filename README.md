@@ -3,12 +3,13 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    I am a PhD student in Operations Research at Cornell Tech. I am interested in developing robust causal discovery algorithms, with applications to downstream causal inference. I am advised by Professor [Kyra Gan](https://kyra-gan.github.io/).
+    I am a PhD student in Operations Research at Cornell Tech. I am interested in developing robust causal discovery algorithms, with applications to downstream causal inference. I am advised by Professor <a href="https://kyra-gan.github.io/" target="_blank" style="text-decoration: none; color: blue;">Kyra Gan</a>.
   </div>
   <div style="margin-left: 20px;">
     <img src="mc.jpg" alt="Your Name" style="width:150px; border-radius:50%;">
   </div>
 </div>
+
 
 
 
