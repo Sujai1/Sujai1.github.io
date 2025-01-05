@@ -3,7 +3,7 @@
 
 I am a PhD student in Operations Research at Cornell Tech. I am interested in developing robust causal discovery algorithms, with applications to downstream causal inference. I am advised by Professor [Kyra Gan](https://kyra-gan.github.io/). 
 
-![Your Name](assets/Me.jpg){: style="float: right; width: 150px; border-radius: 50%;" }
+![Your Name](mc.jpg){: style="float: right; width: 150px; border-radius: 50%;" }
 
 
 ## Published Papers
