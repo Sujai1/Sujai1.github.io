@@ -17,7 +17,10 @@ I am a PhD student in Operations Research at Cornell Tech. I am interested in de
 ## Miscellaneous
 - Resume
 - [LinkedIn](https://www.linkedin.com/in/sujaihiremath/)
-- Email
+- Email<script>
+  document.write('<a href="mailto:sujai@example.com">sujai@example.com</a>');
+</script>
+
 
 
 
