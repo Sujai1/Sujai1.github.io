@@ -1,19 +1,10 @@
 
 <meta name="google-site-verification" content="Wby9p_eTBuhZCnwZryTc8LsCvXkjgZVVj4wgx9D_e90" />
 
-<table>
-  <tr>
-    <td>
-      I am a PhD student in Operations Research at Cornell Tech. I am interested in developing robust causal discovery algorithms, with applications to downstream causal inference. I am advised by Professor [Kyra Gan](https://kyra-gan.github.io/).
-    </td>
-    <td>
-      <img src="assets/your-image.jpg" alt="Your Name" style="width:150px; border-radius:50%;">
-    </td>
-  </tr>
-</table>
-
-
 I am a PhD student in Operations Research at Cornell Tech. I am interested in developing robust causal discovery algorithms, with applications to downstream causal inference. I am advised by Professor [Kyra Gan](https://kyra-gan.github.io/). 
+
+![Your Name](assets/Me.jpg){: style="float: right; width: 150px; border-radius: 50%;" }
+
 
 ## Published Papers
 - **Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models.**  *Hiremath S., Maasch J., Gao M., Ghosal P., Gan K.*
