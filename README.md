@@ -1,7 +1,17 @@
 
 <meta name="google-site-verification" content="Wby9p_eTBuhZCnwZryTc8LsCvXkjgZVVj4wgx9D_e90" />
 
-![Sujai Hiremath](Me.jpg){: style="float: right; width: 150px; border-radius: 50%;" }
+<table>
+  <tr>
+    <td>
+      I am a PhD student in Operations Research at Cornell Tech. I am interested in developing robust causal discovery algorithms, with applications to downstream causal inference. I am advised by Professor [Kyra Gan](https://kyra-gan.github.io/).
+    </td>
+    <td>
+      <img src="assets/your-image.jpg" alt="Your Name" style="width:150px; border-radius:50%;">
+    </td>
+  </tr>
+</table>
+
 
 I am a PhD student in Operations Research at Cornell Tech. I am interested in developing robust causal discovery algorithms, with applications to downstream causal inference. I am advised by Professor [Kyra Gan](https://kyra-gan.github.io/). 
 
