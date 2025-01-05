@@ -1,3 +1,8 @@
 title: Sujai Hiremath
 theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
 
