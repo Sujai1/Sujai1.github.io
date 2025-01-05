@@ -1,6 +1,4 @@
 title: Sujai Hiremath
-theme: jekyll-theme-minimal
-
 links:
   - title: Resume
     url: /resume.pdf
@@ -8,3 +6,5 @@ links:
     url: https://www.linkedin.com/in/sujaihiremath/
   - title: Email
     url: mailto:sujai[at]example[dot]com
+theme: jekyll-theme-minimal
+
