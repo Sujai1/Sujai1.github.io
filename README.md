@@ -5,7 +5,7 @@ I am an Operations PhD student at Cornell Tech. I am interested in developing ef
 
 ## Published Papers
 
-[Supervised kernel thinning](https://arxiv.org/abs/2410.13749) (Albert Gong, Kyuseong Choi, [Raaz Dwivedi](https://raazdwivedi.github.io))
+[Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models](https://openreview.net/pdf?id=xnmm1jThkv)) (Suja Hiremath, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan)
 _Neurips 2024_
 
 [Robust data integration from multiple external sources for generalized linear models with binary outcomes](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159) (Kyuseong Choi, [Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
