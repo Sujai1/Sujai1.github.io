@@ -1,6 +1,8 @@
 
 <meta name="google-site-verification" content="Wby9p_eTBuhZCnwZryTc8LsCvXkjgZVVj4wgx9D_e90" />
 
+![Sujai Hiremath](Me.jpg){: style="float: right; width: 150px; border-radius: 50%;" }
+
 I am a PhD student in Operations Research at Cornell Tech. I am interested in developing robust causal discovery algorithms, with applications to downstream causal inference. I am advised by Professor [Kyra Gan](https://kyra-gan.github.io/). 
 
 ## Published Papers
