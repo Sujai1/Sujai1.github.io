@@ -1,10 +1,3 @@
 title: Sujai Hiremath
-links:
-  - title: Resume
-    url: /resume.pdf
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/sujaihiremath/
-  - title: Email
-    url: mailto:sujai[at]example[dot]com
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 
