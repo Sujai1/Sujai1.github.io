@@ -6,11 +6,11 @@ I am a PhD student at Cornell Tech in Operations Research. I am interested in de
 ## Published Papers
 
 - **Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models.**  *Hiremath S., Maasch J., Gao M., Ghosal P., Gan K.*
-  - [Proceedings of the 38th Conference on Neural Information Processing Systems (**NeurIPS**), 2024](https://openreview.net/pdf?id=xnmm1jThkv)
+  - [Proceedings of the 38th Conference on Neural Information Processing Systems (**NeurIPS**), 2024](https://openreview.net/pdf?id=xnmm1jThkv).
 
 ## Preprints
 - **LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**  *Hiremath S., Ghosal P., Gan K.*
-  - [Arxiv October 2024](https://arxiv.org/abs/2410.11759)
+  - [Arxiv October 2024](https://arxiv.org/abs/2410.11759).
 
 ### Working Projects
 
