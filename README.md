@@ -5,15 +5,15 @@ I am an Operations PhD student at Cornell Tech. I am interested in developing ef
 
 ## Published Papers
 
-[Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models](https://openreview.net/pdf?id=xnmm1jThkv)) (Sujai Hiremath, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan)
+[Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models](https://openreview.net/pdf?id=xnmm1jThkv)) (Sujai Hiremath, Jacqueline Maasch, Mengxiao Gao, [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/))
 _Neurips 2024_
 
 ## Preprints
-[LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach](https://arxiv.org/abs/2410.11759) (Sujai Hiremath, Promit Ghosal, Kyra Gan)
+[LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach](https://arxiv.org/abs/2410.11759) (Sujai Hiremath, [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/))
 
 ### Working Projects
 
-Diffusion for Causal Discovery (with [Kyra Gan](https://kyra-gan.github.io/), [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home))
+Diffusion for Causal Discovery (with [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/))
 
 ## Education
 
