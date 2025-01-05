@@ -9,10 +9,10 @@ I am a PhD student in Operations Research at Cornell Tech. I am interested in de
 
 ## Preprints
 - **LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**  *Hiremath S., Ghosal P., Gan K.*
-  - [Arxiv October 2024](https://arxiv.org/abs/2410.11759).
+  - [arXiv October 2024](https://arxiv.org/abs/2410.11759).
 
 ## Working Projects
-Causal Discovery + Diffusion (with [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
+- Causal Discovery + Diffusion (with [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
 
 ## Education
 
