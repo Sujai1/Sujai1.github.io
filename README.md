@@ -5,20 +5,11 @@ I am an Operations PhD student at Cornell Tech. I am interested in developing ef
 
 ## Published Papers
 
-[Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models](https://openreview.net/pdf?id=xnmm1jThkv)) (Suja Hiremath, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan)
+[Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models](https://openreview.net/pdf?id=xnmm1jThkv)) (Sujai Hiremath, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan)
 _Neurips 2024_
 
-[Robust data integration from multiple external sources for generalized linear models with binary outcomes](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159) (Kyuseong Choi, [Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
-_Biometrics_, Volume 80, Issue 1, March 2024 
-
-[Data integration: exploiting ratios of parameter estimates from a reduced external model](https://academic.oup.com/biomet/article-abstract/110/1/119/6567343) ([Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), Kyuseong Choi, [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
-_Biometrika_, Volume 110, Issue 1, March 2023, Pages 119-134
-
 ## Preprints
-[Learning counterfactual distribution via kernel nearest neighbors](https://arxiv.org/abs/2410.13381) (Kyuseong Choi, Jacob Feitelberg, [Anish Agarwal](https://sites.google.com/view/anishagarwal/home), [Raaz Dwivedi](https://raazdwivedi.github.io))
-
-[Distributional matrix completion via nearest neighbors in the Wasserstein space](https://arxiv.org/abs/2410.13112) (Jacob Feitelberg, Kyuseong Choi, [Anish Agarwal](https://sites.google.com/view/anishagarwal/home), [Raaz Dwivedi](https://raazdwivedi.github.io))
-
+[LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach](https://arxiv.org/abs/2410.11759) (Sujai Hiremath, Promit Ghosal, Kyra Gan)
 
 ### Working Projects
 
