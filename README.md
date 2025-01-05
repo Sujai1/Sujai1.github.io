@@ -15,9 +15,9 @@ I am a PhD student in Operations Research at Cornell Tech. I am interested in de
 - Causal Discovery + Diffusion (with [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
 
 ## Miscellaneous
-- Resume
+- [Resume]
 - [LinkedIn](https://www.linkedin.com/in/sujaihiremath/)
-- [Email](mailto:sh2583&#64;cornell&#46;edu)
+- [Contact](mailto:sh2583&#64;cornell&#46;edu)
 
 
 
