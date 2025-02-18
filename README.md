@@ -14,15 +14,17 @@
 
 
 ## Papers
-- **Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models.**  *<span style="text-decoration: underline;">Sujai Hiremath </span>, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan.*
+- **Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models.**
+  *<span style="text-decoration: underline;">Sujai Hiremath </span>, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan.*
   - [Proceedings of the 38th Conference on Neural Information Processing Systems (*NeurIPS*), 2024](https://openreview.net/pdf?id=xnmm1jThkv).
 
 ## Preprints
-- **LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**  *Hiremath S., Ghosal P., Gan K.*
+- **LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**
+  *<span style="text-decoration: underline;">Sujai Hiremath </span>, Promit Ghosal, Kyra Gan.*
   - [arXiv October 2024](https://arxiv.org/abs/2410.11759).
 
 ## Working Projects
-- Causal Discovery + Diffusion (with [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
+- Diffusion is All You Need (for Causal Discovery) (with [Dominik Meier](https://dominikmeier.io/)[Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
 
 ## Miscellaneous
 - [Resume](Resume.pdf)
