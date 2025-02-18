@@ -28,7 +28,7 @@
 ## Working Projects
 - Diffusion is All You Need (for Causal Discovery)
 
-(with [Dominik Meier](https://dominikmeier.io/), [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
+  (with [Dominik Meier](https://dominikmeier.io/), [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
 
 ## Miscellaneous
 - [Resume](Resume.pdf)
