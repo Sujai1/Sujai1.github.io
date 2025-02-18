@@ -20,7 +20,7 @@
 
 ## Preprints
 **LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**  
-  *<span style="text-decoration: underline;">Sujai Hiremath </span>, Promit Ghosal, Kyra Gan.*  
+  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
   [arXiv October 2024](https://arxiv.org/abs/2410.11759).
 
 ## Working Projects
