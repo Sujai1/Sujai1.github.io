@@ -21,7 +21,7 @@
 
 
 
-[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com)
+[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com) &nbsp;&nbsp;&nbsp;
 [![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=plastic)](https://example.com)
 
 
