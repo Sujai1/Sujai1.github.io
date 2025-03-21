@@ -20,11 +20,8 @@
 
 
 
-[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=for-the-badge)](https://example.com)
 
 [![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com)
-
-[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=flat-square)](https://example.com)
 
 
 [![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=plastic)](https://example.com)
