@@ -8,14 +8,13 @@
     <img src="Hiremath, Sujai.png" alt="Your Name" style="width:150px; border-radius:50%;">
   </div>
 </div>
-
+---
 ## Works in Progress
 **Diffusion is All You Need (for Causal Discovery)**  
   (with [Dominik Meier](https://dominikmeier.io/), [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
 
 ---
 ## Papers
----
 **LoSAM: Local Search in Additive Noise Models with Mixed Mechanisms and General Noise for Global Causal Discovery.**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
   [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2410.11759)
