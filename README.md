@@ -18,6 +18,11 @@
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan.*  
   [38th Conference on Neural Information Processing Systems (*NeurIPS 2024*)](https://openreview.net/pdf?id=xnmm1jThkv).
 
+  <p>
+    <a href="http://arxiv.org/abs/2503.04556" class="button" target="_blank">arxiv</a>&nbsp;
+    <a href="data/ccr_slides.pdf" class="button" target="_blank">slides</a>
+  </p>
+
 ## Preprints
 **LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
