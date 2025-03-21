@@ -1,5 +1,3 @@
-[CV]({{ site.cv_url }}) | [LinkedIn]({{ site.linkedin_url }}) | [Google Scholar]({{ site.scholar_url }})
-
 <meta name="google-site-verification" content="Wby9p_eTBuhZCnwZryTc8LsCvXkjgZVVj4wgx9D_e90" />
 
 <div style="display: flex; align-items: center;">
@@ -37,6 +35,7 @@
 - [LinkedIn](https://www.linkedin.com/in/sujaihiremath/)
 - [Contact](mailto:sh2583&#64;cornell&#46;edu)
 
+[Contact]({{ mailto:sh2583&#64;cornell&#46;edu }})[CV]({{ Resume.pdf }}) | [LinkedIn]({{ site.linkedin_url }}) | [Google Scholar]({{ site.scholar_url }})
 
 
 
