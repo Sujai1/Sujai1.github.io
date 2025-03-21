@@ -21,10 +21,11 @@
 
 
 
-[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=plastic)](https://example.com) &nbsp;&nbsp;&nbsp;&nbsp;
-[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com) &nbsp;
-[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com) &nbsp;
-[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com) &nbsp;
+[![NeurIPS 2024](https://img.shields.io/badge/Click%20Me-blue?style=plastic)](https://example.com) &nbsp;&nbsp;&nbsp;&nbsp;
+[![arXiv](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com) &nbsp;
+[![code](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com) &nbsp;
+[![poster](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com) &nbsp;
+[![slides](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com) &nbsp;
 
 
 
