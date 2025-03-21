@@ -21,7 +21,7 @@
 
 
 
-[![Click Me](https://img.shields.io/badge/NeurIPS%202024-blue?style=plastic)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f03fc3545c3cfb3aa696ad6d58eed1a7-Abstract-Conference.html) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Click Me](https://img.shields.io/badge/NeurIPS%202024-blue?style=plastic)](https://proceedings.neurips.cc/paper_files/paper/2024/file/f03fc3545c3cfb3aa696ad6d58eed1a7-Paper-Conference.pdf) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=flat)](https://arxiv.org/abs/2405.14496) &nbsp;
 [![Click Me](https://img.shields.io/badge/code%20-blue?style=flat)](https://github.com/Sujai1/hybrid-discovery) &nbsp;
 <!--[![Click Me](https://img.shields.io/badge/poster%20-blue?style=flat)](https://example.com) &nbsp;
