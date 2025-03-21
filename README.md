@@ -35,7 +35,7 @@
 - [LinkedIn](https://www.linkedin.com/in/sujaihiremath/)
 - [Contact](mailto:sh2583&#64;cornell&#46;edu)
 
-[Contact]({{ mailto:sh2583&#64;cornell&#46;edu }})[CV]({{ Resume.pdf }}) | [LinkedIn]({{ site.linkedin_url }}) | [Google Scholar]({{ site.scholar_url }})
+[Contact]({{ mailto:sh2583&#64;cornell&#46;edu }}) | [CV]({{ Resume.pdf }}) | [LinkedIn]({{ site.linkedin_url }}) | [Google Scholar]({{ site.scholar_url }})
 
 
 
