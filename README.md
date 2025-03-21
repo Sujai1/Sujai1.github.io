@@ -10,12 +10,18 @@
   </div>
 </div>
 
-
+## Working Projects
+**Diffusion is All You Need (for Causal Discovery)**  
+  (with [Dominik Meier](https://dominikmeier.io/), [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
 
 
 ## Papers
+**LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**  
+  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
+  [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2410.11759)
+
 **Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models.**  
-  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan.*
+*<span style="text-decoration: underline;">Sujai Hiremath</span>, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan.*
   <!--[38th Conference on Neural Information Processing Systems (*NeurIPS 2024*)](https://openreview.net/pdf?id=xnmm1jThkv).
 -->
 [![Click Me](https://img.shields.io/badge/NeurIPS%202024-%23003399?style=plastic)](https://proceedings.neurips.cc/paper_files/paper/2024/file/f03fc3545c3cfb3aa696ad6d58eed1a7-Paper-Conference.pdf)
@@ -24,19 +30,6 @@
 <!--[![Click Me](https://img.shields.io/badge/poster%20-blue?style=flat)](https://example.com) &nbsp;
 [![Click Me](https://img.shields.io/badge/slides%20-blue?style=flat)](https://example.com) &nbsp;
 -->
-
-
-
-
-
-## Preprints
-**LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**  
-  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
-  [arXiv October 2024](https://arxiv.org/abs/2410.11759).
-
-## Working Projects
-**Diffusion is All You Need (for Causal Discovery)**  
-  (with [Dominik Meier](https://dominikmeier.io/), [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
 
 ## Miscellaneous
 - [Resume](Resume.pdf)
