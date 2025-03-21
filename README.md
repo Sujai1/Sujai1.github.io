@@ -1,3 +1,6 @@
+# {{ site.title }}
+
+[CV]({{ site.cv_url }}) | [LinkedIn]({{ site.linkedin_url }}) | [Google Scholar]({{ site.scholar_url }})
 
 <meta name="google-site-verification" content="Wby9p_eTBuhZCnwZryTc8LsCvXkjgZVVj4wgx9D_e90" />
 
