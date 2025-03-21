@@ -8,6 +8,7 @@
     <img src="Hiremath, Sujai.png" alt="Your Name" style="width:150px; border-radius:50%;">
   </div>
 </div>
+
 ---
 ## Works in Progress
 **Diffusion is All You Need (for Causal Discovery)**  
