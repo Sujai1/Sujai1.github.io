@@ -15,10 +15,9 @@
 
 ## Papers
 **Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models.**  
-  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan.*  
+  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan.* <br> 
   <!--[38th Conference on Neural Information Processing Systems (*NeurIPS 2024*)](https://openreview.net/pdf?id=xnmm1jThkv).
 -->
-
 [![Click Me](https://img.shields.io/badge/NeurIPS%202024-%23003399?style=plastic)](https://proceedings.neurips.cc/paper_files/paper/2024/file/f03fc3545c3cfb3aa696ad6d58eed1a7-Paper-Conference.pdf)
 [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2405.14496)
 [![Click Me](https://img.shields.io/badge/code%20-blue?style=plastic)](https://github.com/Sujai1/hybrid-discovery)
