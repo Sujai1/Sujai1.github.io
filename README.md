@@ -18,20 +18,19 @@
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan.*  
   [38th Conference on Neural Information Processing Systems (*NeurIPS 2024*)](https://openreview.net/pdf?id=xnmm1jThkv).
 
-</td>
-  <p>
-    <a href="http://arxiv.org/abs/2503.04556" class="button" target="_blank">arxiv</a>&nbsp;
-    <a href="data/ccr_slides.pdf" class="button" target="_blank">slides</a>
-  </p>
-</td>
+
 
 [![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=for-the-badge)](https://example.com)
 
-<a href="https://example.com">
-  <button style="padding:10px;background-color:#007BFF;color:white;border:none;border-radius:5px;">
-    Click Me
-  </button>
-</a>
+[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=flat)](https://example.com)
+
+[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=flat-square)](https://example.com)
+
+
+[![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=plastic)](https://example.com)
+
+
+
 
 
 
