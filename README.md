@@ -27,6 +27,13 @@
 
 [![Click Me](https://img.shields.io/badge/Click%20Me-blue?style=for-the-badge)](https://example.com)
 
+<a href="https://example.com">
+  <button style="padding:10px;background-color:#007BFF;color:white;border:none;border-radius:5px;">
+    Click Me
+  </button>
+</a>
+
+
 
 ## Preprints
 **LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach.**  
