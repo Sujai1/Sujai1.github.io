@@ -18,7 +18,7 @@
 ## Papers
 **LoSAM: Local Search in Additive Noise Models with Mixed Mechanisms and General Noise for Global Causal Discovery.**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
-  ![Click Me](https://img.shields.io/badge/UAI%202025-%23003399?style=plastic)[![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2410.11759)
+  ![Click Me](https://img.shields.io/badge/UAI%202025-%23003399?style=plastic) [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2410.11759)
 
 **Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models.**  
 *<span style="text-decoration: underline;">Sujai Hiremath</span>, Jacqueline Maasch, Mengxiao Gao, Promit Ghosal, Kyra Gan.*
