@@ -12,7 +12,7 @@
 ---
 ## Works in Progress
 **From Guess to Graph: Causal Discovery Guided by Imperfect Experts**  
-  (with [Philipp Faller](), [Patrick Blöbaum](), [Shiva Kasiviswanathan](), [Dominik Janzing](), [Elke Kirschbaum](), [Kyra Gan](https://kyra-gan.github.io/)).
+  (with [Philipp Faller](https://philippfaller.github.io/), [Patrick Blöbaum](https://scholar.google.com/citations?user=0sqLy8cAAAAJ&hl=de), [Shiva Kasiviswanathan](https://www.shivakasiviswanathan.com/), [Dominik Janzing](https://janzing.github.io/), [Elke Kirschbaum](https://scholar.google.de/citations?user=N8zEgccAAAAJ&hl=de), [Kyra Gan](https://kyra-gan.github.io/)).
 
 ---
 ## Papers
