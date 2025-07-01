@@ -17,7 +17,7 @@
 ---
 ## Papers
 **When Additive Noise Meets Unobserved Mediators: Bivariate Denoising Diffusion for Causal Discovery.**  
-  *<span style="text-decoration: underline;">Dominik Meier</span><span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
+  *<span style="text-decoration: underline;">Dominik Meier</span>, <span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
    [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2506.23374)
   
 **LoSAM: Local Search in Additive Noise Models with Mixed Mechanisms and General Noise for Global Causal Discovery.**  
