@@ -11,11 +11,15 @@
 
 ---
 ## Works in Progress
-**When Additive Noise Meets Unobserved Mediators: Denoising Diffusion for Bivariate Causal Discovery**  
-  (with [Dominik Meier](https://dominikmeier.io/), [Promit Ghosal](https://sites.google.com/view/promit-ghosal/home), [Kyra Gan](https://kyra-gan.github.io/)).
+**From Guess to Graph: Causal Discovery Guided by Imperfect Experts**  
+  (with [Philipp Faller](), [Patrick Blöbaum](), [Shiva Kasiviswanathan](), [Dominik Janzing](), [Elke Kirschbaum](), [Kyra Gan](https://kyra-gan.github.io/)).
 
 ---
 ## Papers
+**When Additive Noise Meets Unobserved Mediators: Bivariate Denoising Diffusion for Causal Discovery.**  
+  *<span style="text-decoration: underline;">Dominik Meier</span><span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
+   [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2506.23374)
+  
 **LoSAM: Local Search in Additive Noise Models with Mixed Mechanisms and General Noise for Global Causal Discovery.**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
   [![Click Me](https://img.shields.io/badge/UAI%202025-%23003399?style=plastic)](https://openreview.net/pdf?id=mOzWwjqEOc) [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2410.11759) [![Click Me](https://img.shields.io/badge/code%20-blue?style=plastic)](https://github.com/Sujai1/local-search-discovery)
