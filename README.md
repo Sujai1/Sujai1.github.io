@@ -47,7 +47,7 @@
 
 
 ---
-[Contact](mailto:sh2583&#64;cornell&#46;edu) | [CV](/Resume.pdf) | [Google Scholar]({{ site.google_scholar}}) | [LinkedIn]({{ site.linkedin_url }})
+[Contact](mailto:sh2583&#64;cornell&#46;edu) | [CV](/Resume.pdf) | [Google Scholar]({{ site.scholar_url}}) | [LinkedIn]({{ site.linkedin_url }})
 
 
 
