@@ -50,6 +50,10 @@
 </p>
 
 <p>
+  <strong><a href="https://www.gutenberg.org/files/52821/52821-h/52821-h.htm" target="_blank" style="text-decoration: none; color: blue;">Prolegomena to Any Future Metaphysics</a></strong>, <em>Immanuel Kant</em>.
+</p>
+
+<p>
   <strong><a href="https://dn720004.ca.archive.org/0/items/english-collections-1/Book%20of%20Disquiet%2C%20The%20-%20Fernando%20Pessoa.pdf" target="_blank" style="text-decoration: none; color: blue;">The Book of Disquiet</a></strong>, <em>Fernando Pessoa</em>.
 </p>
 
@@ -58,15 +62,15 @@
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/Everything_That_Happens_Will_Happen_Today" target="_blank" style="text-decoration: none; color: blue;">Life Is Long</a></strong>, <em>Brian Eno &amp; David Byrne</em>.
+  <strong><a href="https://www.youtube.com/watch?v=BlO6Eu7IqNU&list=RDBlO6Eu7IqNU&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">Life Is Long</a></strong>, <em>Brian Eno &amp; David Byrne</em>.
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/One_World_%28John_Martyn_album%29" target="_blank" style="text-decoration: none; color: blue;">Small Hours</a></strong>, <em>John Martyn</em>.
+  <strong><a href="https://www.youtube.com/watch?v=-ltPQnZGI9Y&list=RD-ltPQnZGI9Y&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">Small Hours</a></strong>, <em>John Martyn</em>.
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/I_Wish_I_Knew_How_It_Would_Feel_to_Be_Free" target="_blank" style="text-decoration: none; color: blue;">I Wish I Knew How It Would Feel to Be Free</a></strong>, <em>Nina Simone</em>.
+  <strong><a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">I Wish I Knew How It Would Feel to Be Free</a></strong>, <em>Nina Simone</em>.
 </p>
 
 
