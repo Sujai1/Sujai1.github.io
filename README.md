@@ -42,7 +42,7 @@
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/Against_Method" target="_blank" style="text-decoration: none; color: blue;">Against Method</a></strong>, <em>Paul Feyerabend</em>.
+  <strong><a href="https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf" target="_blank" style="text-decoration: none; color: blue;">Against Method</a></strong>, <em>Paul Feyerabend</em>.
 </p>
 
 <p>
