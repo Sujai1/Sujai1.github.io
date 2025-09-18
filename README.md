@@ -38,6 +38,7 @@
 ---
 ## Favorite Works
 **The Skeptic Way**
+  
   *Benson Mates*.
 
 **Against Method**
