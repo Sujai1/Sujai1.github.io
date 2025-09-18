@@ -38,7 +38,7 @@
 ---
 ## Books, Art, and Music
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/Benson_Mates" target="_blank" style="text-decoration: none; color: blue;">The Skeptic Way</a></strong>, <em>Benson Mates</em>.
+  <strong><a href="https://openlms.elearningmedia.es/pluginfile.php/4014/mod_book/chapter/201/Outlines%20of%20Pyrronism.pdf" target="_blank" style="text-decoration: none; color: blue;">The Skeptic Way</a></strong>, <em>Benson Mates</em>.
 </p>
 
 <p>
