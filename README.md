@@ -36,9 +36,8 @@
 -->
 
 ---
-## Favorite Works
+## Favorite Books, Art, and Music
 **The Skeptic Way**
-  
   *Benson Mates*.
 
 **Against Method**
