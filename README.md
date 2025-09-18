@@ -36,7 +36,7 @@
 -->
 
 ---
-## Favorite Books, Art, and Music
+## Books, Art, and Music
 <p>
   <strong><a href="https://en.wikipedia.org/wiki/Benson_Mates" target="_blank" style="text-decoration: none; color: blue;">The Skeptic Way</a></strong>, <em>Benson Mates</em>.
 </p>
