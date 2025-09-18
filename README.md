@@ -37,20 +37,30 @@
 
 ---
 ## Favorite Books, Art, and Music
-**The Skeptic Way**
-  *Benson Mates*.
+<p>
+  <strong><a href="https://en.wikipedia.org/wiki/Benson_Mates" target="_blank" style="text-decoration: none; color: blue;">The Skeptic Way</a></strong><br>
+  <em>Benson Mates</em>.
+</p>
 
-**Against Method**
-  *Paul Feyerabend*.
+<p>
+  <strong><a href="https://en.wikipedia.org/wiki/Against_Method" target="_blank" style="text-decoration: none; color: blue;">Against Method</a></strong><br>
+  <em>Paul Feyerabend</em>.
+</p>
 
-**Ways of Worldmaking**
-  *Nelson Goodman*.
+<p>
+  <strong><a href="https://en.wikipedia.org/wiki/Nelson_Goodman" target="_blank" style="text-decoration: none; color: blue;">Ways of Worldmaking</a></strong><br>
+  <em>Nelson Goodman</em>.
+</p>
 
-**The Book of Disquiet**
-  *Fernando Pessoa*.
+<p>
+  <strong><a href="https://en.wikipedia.org/wiki/The_Book_of_Disquiet" target="_blank" style="text-decoration: none; color: blue;">The Book of Disquiet</a></strong><br>
+  <em>Fernando Pessoa</em>.
+</p>
 
-**Fear and Trembling**
-  *Søren Kierkegaard*.
+<p>
+  <strong><a href="https://en.wikipedia.org/wiki/Fear_and_Trembling" target="_blank" style="text-decoration: none; color: blue;">Fear and Trembling</a></strong><br>
+  <em>Søren Kierkegaard</em>.
+</p>
 
 
 
