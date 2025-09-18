@@ -10,12 +10,12 @@
 </div>
 
 ---
-## Works in Progress
+## In Progress
 **From Guess to Graph: Causal Discovery Guided by Imperfect Experts with Unknown Reliability**  
   (with [Philipp Faller](https://philippfaller.github.io/), [Patrick Blöbaum](https://scholar.google.com/citations?user=0sqLy8cAAAAJ&hl=de), [Shiva Kasiviswanathan](https://www.shivakasiviswanathan.com/), [Dominik Janzing](https://janzing.github.io/), [Elke Kirschbaum](https://scholar.google.de/citations?user=N8zEgccAAAAJ&hl=de), [Kyra Gan](https://kyra-gan.github.io/)).
 
 ---
-## Papers
+## Finished
 **When Additive Noise Meets Unobserved Mediators: Bivariate Denoising Diffusion for Causal Discovery.**  
   *<span style="text-decoration: underline;">Dominik Meier</span>, <span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
    ![Click Me](https://img.shields.io/badge/NeurIPS%202025-%23003399?style=plastic) [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2506.23374)
