@@ -46,7 +46,7 @@
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/Nelson_Goodman" target="_blank" style="text-decoration: none; color: blue;">Ways of Worldmaking</a></strong>, <em>Nelson Goodman</em>.
+  <strong><a href="https://monoskop.org/images/c/c5/Goodman_Nelson_Ways_of_Worldmaking_Harvester.pdf" target="_blank" style="text-decoration: none; color: blue;">Ways of Worldmaking</a></strong>, <em>Nelson Goodman</em>.
 </p>
 
 <p>
