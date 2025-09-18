@@ -38,28 +38,25 @@
 ---
 ## Favorite Books, Art, and Music
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/Benson_Mates" target="_blank" style="text-decoration: none; color: blue;">The Skeptic Way</a></strong><br><em>Benson Mates</em>.
+  <strong><a href="https://en.wikipedia.org/wiki/Benson_Mates" target="_blank" style="text-decoration: none; color: blue;">The Skeptic Way</a></strong>, <em>Benson Mates</em>.
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/Against_Method" target="_blank" style="text-decoration: none; color: blue;">Against Method</a></strong><br>
-  <em>Paul Feyerabend</em>.
+  <strong><a href="https://en.wikipedia.org/wiki/Against_Method" target="_blank" style="text-decoration: none; color: blue;">Against Method</a></strong>, <em>Paul Feyerabend</em>.
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/Nelson_Goodman" target="_blank" style="text-decoration: none; color: blue;">Ways of Worldmaking</a></strong><br>
-  <em>Nelson Goodman</em>.
+  <strong><a href="https://en.wikipedia.org/wiki/Nelson_Goodman" target="_blank" style="text-decoration: none; color: blue;">Ways of Worldmaking</a></strong>, <em>Nelson Goodman</em>.
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/The_Book_of_Disquiet" target="_blank" style="text-decoration: none; color: blue;">The Book of Disquiet</a></strong><br>
-  <em>Fernando Pessoa</em>.
+  <strong><a href="https://en.wikipedia.org/wiki/The_Book_of_Disquiet" target="_blank" style="text-decoration: none; color: blue;">The Book of Disquiet</a></strong>, <em>Fernando Pessoa</em>.
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/Fear_and_Trembling" target="_blank" style="text-decoration: none; color: blue;">Fear and Trembling</a></strong><br>
-  <em>Søren Kierkegaard</em>.
+  <strong><a href="https://en.wikipedia.org/wiki/Fear_and_Trembling" target="_blank" style="text-decoration: none; color: blue;">Fear and Trembling</a></strong>, <em>Søren Kierkegaard</em>.
 </p>
+
 
 
 
