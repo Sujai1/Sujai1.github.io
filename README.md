@@ -36,15 +36,15 @@
 -->
 ---
 ## Favorite Works
-** The Skeptic Way **
+**The Skeptic Way**
 *Benson Mates*.
-** Against Method **
+**Against Method**
 *Paul Feyerabend*.
-** Ways of Worldmaking **
+**Ways of Worldmaking**
 *Nelson Goodman*.
-** The Book of Disquiet **
+**The Book of Disquiet**
 *Fernando Pessoa*.
-** Fear and Trembling **
+**Fear and Trembling**
 *Søren Kierkegaard*.
 
 
