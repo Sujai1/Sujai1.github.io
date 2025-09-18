@@ -57,6 +57,19 @@
   <strong><a href="https://en.wikipedia.org/wiki/Fear_and_Trembling" target="_blank" style="text-decoration: none; color: blue;">Fear and Trembling</a></strong>, <em>Søren Kierkegaard</em>.
 </p>
 
+<p>
+  <strong><a href="https://en.wikipedia.org/wiki/Everything_That_Happens_Will_Happen_Today" target="_blank" style="text-decoration: none; color: blue;">Life Is Long</a></strong>, <em>Brian Eno &amp; David Byrne</em>.
+</p>
+
+<p>
+  <strong><a href="https://en.wikipedia.org/wiki/One_World_%28John_Martyn_album%29" target="_blank" style="text-decoration: none; color: blue;">Small Hours</a></strong>, <em>John Martyn</em>.
+</p>
+
+<p>
+  <strong><a href="https://en.wikipedia.org/wiki/I_Wish_I_Knew_How_It_Would_Feel_to_Be_Free" target="_blank" style="text-decoration: none; color: blue;">I Wish I Knew How It Would Feel to Be Free</a></strong>, <em>Nina Simone</em>.
+</p>
+
+
 
 
 
