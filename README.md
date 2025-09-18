@@ -34,7 +34,18 @@
 <!--[![Click Me](https://img.shields.io/badge/poster%20-blue?style=flat)](https://example.com) &nbsp;
 [![Click Me](https://img.shields.io/badge/slides%20-blue?style=flat)](https://example.com) &nbsp;
 -->
-
+---
+## Favorite Works
+** The Skeptic Way **
+*Benson Mates*.
+** Against Method **
+*Paul Feyerabend*.
+** Ways of Worldmaking **
+*Nelson Goodman*.
+** The Book of Disquiet **
+*Fernando Pessoa*.
+** Fear and Trembling **
+*Søren Kierkegaard*.
 
 
 
