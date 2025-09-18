@@ -54,7 +54,7 @@
 </p>
 
 <p>
-  <strong><a href="https://en.wikipedia.org/wiki/Fear_and_Trembling" target="_blank" style="text-decoration: none; color: blue;">Fear and Trembling</a></strong>, <em>Søren Kierkegaard</em>.
+  <strong><a href="https://www.sorenkierkegaard.nl/artikelen/Engels/101.%20Fear%20and%20Trembling%20book%20Kierkegaard.pdf" target="_blank" style="text-decoration: none; color: blue;">Fear and Trembling</a></strong>, <em>Søren Kierkegaard</em>.
 </p>
 
 <p>
