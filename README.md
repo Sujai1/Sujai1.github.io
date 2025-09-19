@@ -47,6 +47,12 @@
 </div>
 
 <div class="reading-group">
+  <p><a href="https://commons.wikimedia.org/wiki/File:Kandinsky_-_Fixed_Points,_1942.jpg#&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Fixed Points</a>, <em>Wassily Kandinsky</em>.</p>
+  <p><a href="https://de.m.wikipedia.org/wiki/Datei:Claude_Monet_Weeping_Willow.jpg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Weeping Willow</a>, <em>Claude Monet</em>.</p>
+  <p><a href="https://de.wikipedia.org/wiki/Datei:Vincent_van_Gogh_-_Vrouwen_olijven_plukken.jpg&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Women Picking Olives</a>, <em>Vincent van Gogh</em>.</p>
+</div>
+
+<div class="reading-group">
   <p><a href="https://www.youtube.com/watch?v=BlO6Eu7IqNU&list=RDBlO6Eu7IqNU&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Life Is Long</a>, <em>Brian Eno &amp; David Byrne</em>.</p>
   <p><a href="https://www.youtube.com/watch?v=-ltPQnZGI9Y&list=RD-ltPQnZGI9Y&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Small Hours</a>, <em>John Martyn</em>.</p>
   <p><a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">I Wish I Knew How It Would Feel to Be Free</a>, <em>Nina Simone</em>.</p>
