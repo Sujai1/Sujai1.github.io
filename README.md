@@ -66,11 +66,11 @@
 </p>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=-ltPQnZGI9Y&list=RD-ltPQnZGI9Y&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">Small Hours</a>, <em>John Martyn</em>.
+  <a href="https://www.youtube.com/watch?v=-ltPQnZGI9Y&list=RD-ltPQnZGI9Y&start_radio=1" target="_blank" style="text-decoration: none; color: lightskyblue;">Small Hours</a>, <em>John Martyn</em>.
 </p>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">I Wish I Knew How It Would Feel to Be Free</a>, <em>Nina Simone</em>.
+  <a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: lightblue;">I Wish I Knew How It Would Feel to Be Free</a>, <em>Nina Simone</em>.
 </p>
 
 
