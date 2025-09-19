@@ -38,40 +38,42 @@
 ---
 ## Books, Art, and Music
 <p>
-  <strong><a href="https://openlms.elearningmedia.es/pluginfile.php/4014/mod_book/chapter/201/Outlines%20of%20Pyrronism.pdf" target="_blank" style="text-decoration: none; color: blue;">The Skeptic Way</a></strong>, <em>Benson Mates</em>.
+  <a href="https://openlms.elearningmedia.es/pluginfile.php/4014/mod_book/chapter/201/Outlines%20of%20Pyrronism.pdf" target="_blank" style="text-decoration: none; color: blue;">The Skeptic Way</a>, <em>Benson Mates</em>.
 </p>
 
 <p>
-  <strong><a href="https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf" target="_blank" style="text-decoration: none; color: blue;">Against Method</a></strong>, <em>Paul Feyerabend</em>.
+  <a href="https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf" target="_blank" style="text-decoration: none; color: blue;">Against Method</a>, <em>Paul Feyerabend</em>.
 </p>
 
 <p>
-  <strong><a href="https://monoskop.org/images/c/c5/Goodman_Nelson_Ways_of_Worldmaking_Harvester.pdf" target="_blank" style="text-decoration: none; color: blue;">Ways of Worldmaking</a></strong>, <em>Nelson Goodman</em>.
+  <a href="https://monoskop.org/images/c/c5/Goodman_Nelson_Ways_of_Worldmaking_Harvester.pdf" target="_blank" style="text-decoration: none; color: blue;">Ways of Worldmaking</a>, <em>Nelson Goodman</em>.
 </p>
 
 <p>
-  <strong><a href="https://www.gutenberg.org/files/52821/52821-h/52821-h.htm" target="_blank" style="text-decoration: none; color: blue;">Prolegomena to Any Future Metaphysics</a></strong>, <em>Immanuel Kant</em>.
+  <a href="https://www.gutenberg.org/files/52821/52821-h/52821-h.htm" target="_blank" style="text-decoration: none; color: blue;">Prolegomena to Any Future Metaphysics</a>, <em>Immanuel Kant</em>.
 </p>
 
 <p>
-  <strong><a href="https://dn720004.ca.archive.org/0/items/english-collections-1/Book%20of%20Disquiet%2C%20The%20-%20Fernando%20Pessoa.pdf" target="_blank" style="text-decoration: none; color: blue;">The Book of Disquiet</a></strong>, <em>Fernando Pessoa</em>.
+  <a href="https://dn720004.ca.archive.org/0/items/english-collections-1/Book%20of%20Disquiet%2C%20The%20-%20Fernando%20Pessoa.pdf" target="_blank" style="text-decoration: none; color: blue;">The Book of Disquiet</a>, <em>Fernando Pessoa</em>.
 </p>
 
 <p>
-  <strong><a href="https://www.sorenkierkegaard.nl/artikelen/Engels/101.%20Fear%20and%20Trembling%20book%20Kierkegaard.pdf" target="_blank" style="text-decoration: none; color: blue;">Fear and Trembling</a></strong>, <em>Søren Kierkegaard</em>.
+  <a href="https://www.sorenkierkegaard.nl/artikelen/Engels/101.%20Fear%20and%20Trembling%20book%20Kierkegaard.pdf" target="_blank" style="text-decoration: none; color: blue;">Fear and Trembling</a>, <em>Søren Kierkegaard</em>.
 </p>
 
 <p>
-  <strong><a href="https://www.youtube.com/watch?v=BlO6Eu7IqNU&list=RDBlO6Eu7IqNU&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">Life Is Long</a></strong>, <em>Brian Eno &amp; David Byrne</em>.
+  <a href="https://www.youtube.com/watch?v=BlO6Eu7IqNU&list=RDBlO6Eu7IqNU&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">Life Is Long</a>, <em>Brian Eno &amp; David Byrne</em>.
 </p>
 
 <p>
-  <strong><a href="https://www.youtube.com/watch?v=-ltPQnZGI9Y&list=RD-ltPQnZGI9Y&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">Small Hours</a></strong>, <em>John Martyn</em>.
+  <a href="https://www.youtube.com/watch?v=-ltPQnZGI9Y&list=RD-ltPQnZGI9Y&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">Small Hours</a>, <em>John Martyn</em>.
 </p>
 
 <p>
-  <strong><a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">I Wish I Knew How It Would Feel to Be Free</a></strong>, <em>Nina Simone</em>.
+  <a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: blue;">I Wish I Knew How It Would Feel to Be Free</a>, <em>Nina Simone</em>.
 </p>
+
+
 
 
 
