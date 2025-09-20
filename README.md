@@ -49,7 +49,7 @@
 <div class="reading-group">
   <p><a href="https://commons.wikimedia.org/wiki/File:Kandinsky_-_Fixed_Points,_1942.jpg#&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Fixed Points</a>, <em>Wassily Kandinsky</em>.</p>
   <p><a href="https://de.m.wikipedia.org/wiki/Datei:Claude_Monet_Weeping_Willow.jpg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Weeping Willow</a>, <em>Claude Monet</em>.</p>
-  <p><a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fvincent-van-gogh-women-picking-olives-1889-v0-8vdy8qiyva0e1.jpeg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Df73a49a527c8f1a92a89e5b345d9a10d911b5056&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Women Picking Olives</a>, <em>Vincent van Gogh</em>.</p>
+  <p><a href="https://artsandculture.google.com/asset/women-picking-olives-vincent-van-gogh/nAFL_u-BKSIfRw?hl=en-GB&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Women Picking Olives</a>, <em>Vincent van Gogh</em>.</p>
 </div>
 
 <div class="reading-group">
