@@ -11,7 +11,6 @@
 
 [Contact](mailto:sh2583&#64;cornell&#46;edu) | [CV](/Resume.pdf) | [Google Scholar]({{ site.scholar_url}}) | [LinkedIn]({{ site.linkedin_url }})
 
----
 ## Drafts
 **From Guess to Graph: Causal Discovery Guided by Imperfect Experts with Unknown Reliability**  
   (with [Philipp Faller](https://philippfaller.github.io/), [Patrick Blöbaum](https://scholar.google.com/citations?user=0sqLy8cAAAAJ&hl=de), [Shiva Kasiviswanathan](https://www.shivakasiviswanathan.com/), [Dominik Janzing](https://janzing.github.io/), [Elke Kirschbaum](https://scholar.google.de/citations?user=N8zEgccAAAAJ&hl=de), [Kyra Gan](https://kyra-gan.github.io/)).
