@@ -8,7 +8,7 @@
     <img src="Hiremath, Sujai.png" alt="Your Name" style="width:150px; border-radius:50%;">
   </div>
 </div>
-
+<br>
 [Contact](mailto:sh2583&#64;cornell&#46;edu) | [CV](/Resume.pdf) | [Google Scholar]({{ site.scholar_url}}) | [LinkedIn]({{ site.linkedin_url }})
 
 ## Drafts
