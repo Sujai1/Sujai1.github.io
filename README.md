@@ -20,7 +20,7 @@
 ## Publications
 **When Additive Noise Meets Unobserved Mediators: Bivariate Denoising Diffusion for Causal Discovery.**  
   *<span style="text-decoration: underline;">Dominik Meier</span>, <span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
-   [![Click Me](https://img.shields.io/badge/NeurIPS%202025-%23003399?style=plastic)](https://neurips.cc/virtual/2025/poster/115510) [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2506.23374) [![Click Me](https://img.shields.io/badge/code%20-blue?style=plastic)](https://github.com/XPerianer/diffusion-discovery)
+   [![Click Me](https://img.shields.io/badge/NeurIPS%202025-%23003399?style=plastic)](https://neurips.cc/virtual/2025/poster/115510) [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2506.23374) [![Click Me](https://img.shields.io/badge/code%20-%234DA6FF?style=plastic)](https://github.com/XPerianer/diffusion-discovery)
   
 **LoSAM: Local Search in Additive Noise Models with Mixed Mechanisms and General Noise for Global Causal Discovery.**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
@@ -32,7 +32,7 @@
 -->
 [![Click Me](https://img.shields.io/badge/NeurIPS%202024-%23003399?style=plastic)](https://neurips.cc/virtual/2024/poster/93064)
 [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2405.14496)
-[![Click Me](https://img.shields.io/badge/code%20-blue?style=plastic)](https://github.com/Sujai1/hybrid-discovery)
+[![Click Me](https://img.shields.io/badge/code%20-%234DA6FF?style=plastic)](https://github.com/Sujai1/hybrid-discovery)
 <!--[![Click Me](https://img.shields.io/badge/poster%20-blue?style=flat)](https://example.com) &nbsp;
 [![Click Me](https://img.shields.io/badge/slides%20-blue?style=flat)](https://example.com) &nbsp;
 -->
