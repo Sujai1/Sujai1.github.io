@@ -13,8 +13,8 @@
 
 ---
 ## Drafts
-**From Guess to Graph: Causal Discovery Guided by Imperfect Experts with Unknown Reliability**  
-  (with [Philipp Faller](https://philippfaller.github.io/), [Patrick Blöbaum](https://scholar.google.com/citations?user=0sqLy8cAAAAJ&hl=de), [Shiva Kasiviswanathan](https://www.shivakasiviswanathan.com/), [Dominik Janzing](https://janzing.github.io/), [Elke Kirschbaum](https://scholar.google.de/citations?user=N8zEgccAAAAJ&hl=de), [Kyra Gan](https://kyra-gan.github.io/)).
+**From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?**  
+  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Philipp Faller, Patrick Blöbaum, Elke Kirschbaum, Shiva Prasad Kasiviswanathan, Kyra Gan.*
 
 ---
 ## Publications
