@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    I am an ORIE PhD student at Cornell Tech, NYC. I am motivated by a curiosity of the world. I work on developing robust and sample efficient causal discovery algorithms, with applications in causal inference and reinforcement learning. Previously, I explored the intersection of causality, LLMs and RL as a research intern at <a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: blue;">Amazon Science</a> in Tübingen, Germany. I am advised by <a href="https://kyra-gan.github.io/" target="_blank" style="text-decoration: none; color: blue;">Kyra Gan</a>.
+    I am an ORIE PhD student at Cornell Tech, NYC. I am motivated by a curiosity of the world. I work on developing robust and sample efficient causal discovery algorithms, with applications in causal inference and reinforcement learning. Previously, I explored the intersection of causality, LLMs, and RL as a research intern at <a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: blue;">Amazon Science</a> in Tübingen, Germany. I am advised by <a href="https://kyra-gan.github.io/" target="_blank" style="text-decoration: none; color: blue;">Kyra Gan</a>.
   </div>
   <div style="margin-left: 20px;">
     <img src="Hiremath, Sujai.png" alt="Your Name" style="width:150px; border-radius:50%;">
@@ -15,7 +15,7 @@
 ## Drafts
 **From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Philipp Faller, Patrick Blöbaum, Elke Kirschbaum, Shiva Prasad Kasiviswanathan, Kyra Gan.*<br>
-  [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/pdf/2510.14488)
+  [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/pdf/2510.14488) [![Click Me](https://img.shields.io/badge/code%20-%234DA6FF?style=plastic)](https://github.com/amazon-science/Guess2GraphPaperCode)
 
 ---
 ## Publications
