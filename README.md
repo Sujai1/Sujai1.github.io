@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    I am an ORIE PhD student at Cornell Tech, NYC. I am motivated by a curiosity of the world. I work on developing robust and sample efficient causal discovery algorithms, with applications in causal inference and reinforcement learning. I am currently exploring the intersection of causality and LLMs as a research intern at <a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: blue;">Amazon Science</a> in Tübingen, Germany. I am advised by <a href="https://kyra-gan.github.io/" target="_blank" style="text-decoration: none; color: blue;">Kyra Gan</a>.
+    I am an ORIE PhD student at Cornell Tech, NYC. I am motivated by a curiosity of the world. I work on developing robust and sample efficient causal discovery algorithms, with applications in causal inference and reinforcement learning. Previously, I explored the intersection of causality, LLMs and RL as a research intern at <a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: blue;">Amazon Science</a> in Tübingen, Germany. I am advised by <a href="https://kyra-gan.github.io/" target="_blank" style="text-decoration: none; color: blue;">Kyra Gan</a>.
   </div>
   <div style="margin-left: 20px;">
     <img src="Hiremath, Sujai.png" alt="Your Name" style="width:150px; border-radius:50%;">
