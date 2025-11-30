@@ -15,7 +15,7 @@
 ---
 ## Drafts
 **From Causal Structure to Efficient Representations in Deep Reinforcement Learning**  
-  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Philipp Faller, Patrick Blöbaum, Elke Kirschbaum, Shiva Prasad Kasiviswanathan, Kyra Gan, Krishna Balasubramanian.*<br>
+  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Patrick Blöbaum, Elke Kirschbaum, Shiva Prasad Kasiviswanathan, Kyra Gan, Krishna Balasubramanian.*<br>
   
 **From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Philipp Faller, Patrick Blöbaum, Elke Kirschbaum, Shiva Prasad Kasiviswanathan, Kyra Gan.*<br>
