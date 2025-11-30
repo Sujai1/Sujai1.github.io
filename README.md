@@ -16,7 +16,7 @@
 ## Drafts
 **From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Philipp Faller, Patrick Blöbaum, Elke Kirschbaum, Shiva Prasad Kasiviswanathan, Kyra Gan.*<br>
-  [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/pdf/2510.14488) [![Click Me](https://img.shields.io/badge/code%20-%234DA6FF?style=plastic)](https://github.com/amazon-science/Guess2GraphPaperCode)
+  [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2510.14488) [![Click Me](https://img.shields.io/badge/code%20-%234DA6FF?style=plastic)](https://github.com/amazon-science/Guess2GraphPaperCode)
 
 ---
 ## Publications
