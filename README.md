@@ -14,7 +14,7 @@
 
 ---
 ## Drafts
-**From Causal Structure to Efficient Representations: Causal Discovery for Deep Reinforcement Learning**  
+**From Causal Structure to Efficient Representations: Deep Reinforcement Learning with Causal Rank Regularization**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Shiva Prasad Kasiviswanathan, Dominik Janzing, Patrick Blöbaum, Elke Kirschbaum, Kyra Gan, Krishna Balasubramanian.*<br>
   
 **From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?**  
