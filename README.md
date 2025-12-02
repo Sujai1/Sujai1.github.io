@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     I am an ORIE PhD student at Cornell Tech, NYC. I am motivated by a curiosity of the world. I work primarily on (1) developing robust and sample efficient causal discovery algorithms, and (2) their application in causal inference and reinforcement learning; I am currently also exploring (3) causality for LLM interpretability. Previously, I explored the intersection of causality, LLMs, and RL as a research intern at <a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: blue;">Amazon Science</a> in Tübingen, Germany. I am advised by <a href="https://kyra-gan.github.io/" target="_blank" style="text-decoration: none; color: blue;">Kyra Gan</a>.<br><br>
-    I believe causality will be essential to the cost efficient development of AI systems that have prediction, control and counterfactual reasoning capabitilies that can generalize to unseen environments. I aim to close the gap between theory and practice to enable machine learning systems to truly understand our causal world.
+    I believe causality will be essential to the efficient and safe development of AI systems that have prediction, control and counterfactual reasoning capabitilies that can generalize to unseen environments. I aim to close the gap between theory and practice to enable machine learning systems to truly understand our causal world.
   </div>
   <div style="margin-left: 20px;">
     <img src="Hiremath, Sujai.png" alt="Your Name" style="width:150px; border-radius:50%;">
