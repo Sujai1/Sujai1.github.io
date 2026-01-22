@@ -16,13 +16,13 @@
 ## Drafts
 **From Causal Structure to Efficient Representations: Deep Reinforcement Learning with Causal Rank Regularization**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Shiva Prasad Kasiviswanathan, Dominik Janzing, Patrick Blöbaum, Elke Kirschbaum, Kyra Gan, Krishna Balasubramanian.*<br>
-  
-**From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?**  
-  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Philipp Faller, Patrick Blöbaum, Elke Kirschbaum, Shiva Prasad Kasiviswanathan, Kyra Gan.*<br>
-  [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2510.14488) [![Click Me](https://img.shields.io/badge/code%20-%234DA6FF?style=plastic)](https://github.com/amazon-science/Guess2GraphPaperCode)
 
 ---
 ## Publications
+**From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?**  
+  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Philipp Faller, Patrick Blöbaum, Elke Kirschbaum, Shiva Prasad Kasiviswanathan, Kyra Gan.*<br>
+  [![Click Me](https://img.shields.io/badge/AISTATS%202026-%23003399?style=plastic)](https://virtual.aistats.org/) [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2510.14488) [![Click Me](https://img.shields.io/badge/code%20-%234DA6FF?style=plastic)](https://github.com/amazon-science/Guess2GraphPaperCode)
+  
 **When Additive Noise Meets Unobserved Mediators: Bivariate Denoising Diffusion for Causal Discovery.**  
   *<span style="text-decoration: underline;">Dominik Meier</span>, <span style="text-decoration: underline;">Sujai Hiremath</span>, Promit Ghosal, Kyra Gan.*  
    [![Click Me](https://img.shields.io/badge/NeurIPS%202025-%23003399?style=plastic)](https://neurips.cc/virtual/2025/poster/115510) [![Click Me](https://img.shields.io/badge/arXiv%20-blue?style=plastic)](https://arxiv.org/abs/2506.23374) [![Click Me](https://img.shields.io/badge/code%20-%234DA6FF?style=plastic)](https://github.com/XPerianer/diffusion-discovery)
