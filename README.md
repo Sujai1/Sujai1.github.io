@@ -17,6 +17,9 @@
 ## Drafts
 **From Causal Structure to Efficient Representations: Deep Reinforcement Learning with Causal Rank Regularization**  
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Shiva Prasad Kasiviswanathan, Dominik Janzing, Patrick Blöbaum, Elke Kirschbaum, Kyra Gan, Krishna Balasubramanian.*<br>
+  
+**From Detection to Attribution: Causal Forensics for Prompt Injection in LLM Agents**
+  *<span style="text-decoration: underline;">Sujai Hiremath</span>.*<br>
 
 ---
 ## Publications
