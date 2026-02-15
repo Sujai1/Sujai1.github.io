@@ -86,14 +86,11 @@
 <div class="reading-group">
   <p><a href="https://en.wikipedia.org/wiki/Echo_Mountain" target="_blank" style="text-decoration: none; color: cornflowerblue;">Los Angeles</a>, <em>Echo Mountain</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Golden_Gate_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">San Francisco</a>, <em>Golden Gate Park</em>.</p>
-  <p><a href="https://fasancoffee.us/" target="_blank" style="text-decoration: none; color: cornflowerblue;">New York City</a>, <em>Fasan</em>.</p>
-  <p><a href="https://www.gutenberg.org/files/52821/52821-h/52821-h.htm" target="_blank" style="text-decoration: none; color: cornflowerblue;">Prolegomena to Any Future Metaphysics</a>, <em>Immanuel Kant</em>.</p>
-  <p><a href="https://dn720004.ca.archive.org/0/items/english-collections-1/Book%20of%20Disquiet%2C%20The%20-%20Fernando%20Pessoa.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Book of Disquiet</a>, <em>Fernando Pessoa</em>.</p>
-  <p><a href="https://www.sorenkierkegaard.nl/artikelen/Engels/101.%20Fear%20and%20Trembling%20book%20Kierkegaard.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">Fear and Trembling</a>, <em>Søren Kierkegaard</em>.</p>
+  <p><a href="https://fasancoffee.us/" target="_blank" style="text-decoration: none; color: cornflowerblue;">New York City</a>, <em>Fasan Coffee Shop</em>.</p>
 </div>
 
 <div class="reading-group">
-  <p><a href="https://commons.wikimedia.org/wiki/File:Kandinsky_-_Fixed_Points,_1942.jpg#&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Fixed Points</a>, <em>Wassily Kandinsky</em>.</p>
+  <p><a href="https://www.willi-tuebingen.de/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Tübingen</a>, <em>Willi Cafe</em>.</p>
   <p><a href="https://de.m.wikipedia.org/wiki/Datei:Claude_Monet_Weeping_Willow.jpg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Weeping Willow</a>, <em>Claude Monet</em>.</p>
   <p><a href="https://artsandculture.google.com/asset/women-picking-olives-vincent-van-gogh/nAFL_u-BKSIfRw?hl=en-GB&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Women Picking Olives</a>, <em>Vincent van Gogh</em>.</p>
 </div>
