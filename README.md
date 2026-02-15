@@ -90,9 +90,9 @@
 </div>
 
 <div class="reading-group">
-  <p><a href="https://www.willi-tuebingen.de/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Tübingen</a>, <em>Willi Cafe</em>.</p>
-  <p><a href="https://de.m.wikipedia.org/wiki/Datei:Claude_Monet_Weeping_Willow.jpg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Weeping Willow</a>, <em>Claude Monet</em>.</p>
-  <p><a href="https://artsandculture.google.com/asset/women-picking-olives-vincent-van-gogh/nAFL_u-BKSIfRw?hl=en-GB&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Women Picking Olives</a>, <em>Vincent van Gogh</em>.</p>
+  <p><a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: cornflowerblue;">Tübingen</a>, <em>Amazon Science Office</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Vauban,_Freiburg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Freiburg im Breisgau</a>, <em>Vauban</em>.</p>
+  <p><a href="https://www.kstw.de/mensa?tx_epwerkbuilding_buildingplugin[action]=show&tx_epwerkbuilding_buildingplugin[buildingid]=1&tx_epwerkbuilding_buildingplugin[controller]=Building&cHash=6a70d60558de03358fd38efbfbfe58ac" target="_blank" style="text-decoration: none; color: cornflowerblue;">Köln</a>, <em>Mensa</em>.</p>
 </div>
 
 <div class="reading-group">
