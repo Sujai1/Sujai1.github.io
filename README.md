@@ -81,6 +81,40 @@
 
 
 
+---
+## Places I Loved
+<div class="reading-group">
+  <p><a href="https://openlms.elearningmedia.es/pluginfile.php/4014/mod_book/chapter/201/Outlines%20of%20Pyrronism.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Skeptic Way</a>, <em>Benson Mates</em>.</p>
+  <p><a href="https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">Against Method</a>, <em>Paul Feyerabend</em>.</p>
+  <p><a href="https://monoskop.org/images/c/c5/Goodman_Nelson_Ways_of_Worldmaking_Harvester.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">Ways of Worldmaking</a>, <em>Nelson Goodman</em>.</p>
+  <p><a href="https://www.gutenberg.org/files/52821/52821-h/52821-h.htm" target="_blank" style="text-decoration: none; color: cornflowerblue;">Prolegomena to Any Future Metaphysics</a>, <em>Immanuel Kant</em>.</p>
+  <p><a href="https://dn720004.ca.archive.org/0/items/english-collections-1/Book%20of%20Disquiet%2C%20The%20-%20Fernando%20Pessoa.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Book of Disquiet</a>, <em>Fernando Pessoa</em>.</p>
+  <p><a href="https://www.sorenkierkegaard.nl/artikelen/Engels/101.%20Fear%20and%20Trembling%20book%20Kierkegaard.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">Fear and Trembling</a>, <em>Søren Kierkegaard</em>.</p>
+</div>
+
+<div class="reading-group">
+  <p><a href="https://commons.wikimedia.org/wiki/File:Kandinsky_-_Fixed_Points,_1942.jpg#&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Fixed Points</a>, <em>Wassily Kandinsky</em>.</p>
+  <p><a href="https://de.m.wikipedia.org/wiki/Datei:Claude_Monet_Weeping_Willow.jpg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Weeping Willow</a>, <em>Claude Monet</em>.</p>
+  <p><a href="https://artsandculture.google.com/asset/women-picking-olives-vincent-van-gogh/nAFL_u-BKSIfRw?hl=en-GB&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Women Picking Olives</a>, <em>Vincent van Gogh</em>.</p>
+</div>
+
+<div class="reading-group">
+  <p><a href="https://www.youtube.com/watch?v=BlO6Eu7IqNU&list=RDBlO6Eu7IqNU&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Life Is Long</a>, <em>Brian Eno &amp; David Byrne</em>.</p>
+  <p><a href="https://www.youtube.com/watch?v=-ltPQnZGI9Y&list=RD-ltPQnZGI9Y&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Small Hours</a>, <em>John Martyn</em>.</p>
+  <p><a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">I Wish I Knew How It Would Feel to Be Free</a>, <em>Nina Simone</em>.</p>
+</div>
+
+<style>
+  /* Tighten items within each group */
+  .reading-group p { margin: 0; }
+  .reading-group p + p { margin-top: 2px; }   /* tiny inner gap (optional) */
+
+  /* Add space between the two groups */
+  .reading-group + .reading-group { margin-top: 12px; }
+</style>
+
+
+
 
 
 
