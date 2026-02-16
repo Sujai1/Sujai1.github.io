@@ -74,8 +74,6 @@
   <p><a href="https://en.wikipedia.org/wiki/Echo_Mountain" target="_blank" style="text-decoration: none; color: cornflowerblue;">Los Angeles</a>, <em>Echo Mountain</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Golden_Gate_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">San Francisco</a>, <em>Golden Gate Park</em>.</p>
   <p><a href="https://fasancoffee.us/" target="_blank" style="text-decoration: none; color: cornflowerblue;">New York City</a>, <em>Fasan Coffee Shop</em>.</p>
-</div>
-<div class="reading-group">
   <p><a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: cornflowerblue;">Tübingen</a>, <em>Amazon Science Office</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Vauban,_Freiburg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Freiburg im Breisgau</a>, <em>Vauban District</em>.</p>
   <p><a href="https://www.kstw.de/mensa?tx_epwerkbuilding_buildingplugin[action]=show&tx_epwerkbuilding_buildingplugin[buildingid]=1&tx_epwerkbuilding_buildingplugin[controller]=Building&cHash=6a70d60558de03358fd38efbfbfe58ac" target="_blank" style="text-decoration: none; color: cornflowerblue;">Köln</a>, <em>Mensa Zülpicher</em>.</p>
