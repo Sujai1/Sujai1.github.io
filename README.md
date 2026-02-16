@@ -79,12 +79,33 @@
   <p><a href="https://www.kstw.de/mensa?tx_epwerkbuilding_buildingplugin[action]=show&tx_epwerkbuilding_buildingplugin[buildingid]=1&tx_epwerkbuilding_buildingplugin[controller]=Building&cHash=6a70d60558de03358fd38efbfbfe58ac" target="_blank" style="text-decoration: none; color: cornflowerblue;">Köln</a>, <em>Mensa Zülpicher</em>.</p>
    <p><a href="https://sisyphos-berlin.net/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Berlin</a>, <em>Sisyphos Nightclub</em>.</p>
    <p><a href="https://www.lenbachhaus.de/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Munich</a>, <em>Lenbachhaus Art Museum</em>.</p>
+    <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Frankfurt </a>, <em> Freetown Christiania </em>.</p>
+    <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Stuttgart </a>, <em> Freetown Christiania </em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Copenhagen </a>, <em> Freetown Christiania </em>.</p>
   <p><a href="https://oslobadstuforening.no/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Oslo</a>, <em>Floating Sauna</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://claudemonetgiverny.fr/en/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Giverny </a>, <em> Monet's House and Gardens </em>.</p>
   <p><a href="https://maps.app.goo.gl/ffzAYngWdtyxVoaKA?g_st=i&utm_campaign=ac-im" target="_blank" style="text-decoration: none; color: cornflowerblue;">Paris</a>, <em>Crow Lounge</em>.</p>
+  <p><a href="https://maps.app.goo.gl/ffzAYngWdtyxVoaKA?g_st=i&utm_campaign=ac-im" target="_blank" style="text-decoration: none; color: cornflowerblue;">Strasbourg</a>, <em>Crow Lounge</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken</em>.</p>
+    <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Amsterdam </a>, <em> Freetown Christiania </em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Prague</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Vienna</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Venice</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Rome</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Naples</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Zürich</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Lucerne</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Bern</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Basel</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">London </a>, <em> Freetown Christiania </em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Istanbul </a>, <em> Freetown Christiania </em>.</p>
+    <p><a href="https://en.wikipedia.org/wiki/Tijuca_National_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">Rio di Janeiro </a>, <em> Tijuca National Park </em>.</p>
+      <p><a href="https://en.wikipedia.org/wiki/Whistler_Blackcomb" target="_blank" style="text-decoration: none; color: cornflowerblue;">Vancouver </a>, <em> Whistler Blackcomb Ski Resort </em>.</p>
+        <p><a href="https://www.coronado.ca.us/244/Coronado-Beach" target="_blank" style="text-decoration: none; color: cornflowerblue;">San Diego </a>, <em> Coronado Beach </em>.</p>
+
+
+  
 </div>
 
 
