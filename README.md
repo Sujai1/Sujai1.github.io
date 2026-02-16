@@ -91,16 +91,16 @@
 
 <div class="reading-group">
   <p><a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: cornflowerblue;">Tübingen</a>, <em>Amazon Science Office</em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Vauban,_Freiburg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Freiburg im Breisgau</a>, <em>Vauban</em>.</p>
-  <p><a href="https://www.kstw.de/mensa?tx_epwerkbuilding_buildingplugin[action]=show&tx_epwerkbuilding_buildingplugin[buildingid]=1&tx_epwerkbuilding_buildingplugin[controller]=Building&cHash=6a70d60558de03358fd38efbfbfe58ac" target="_blank" style="text-decoration: none; color: cornflowerblue;">Köln</a>, <em>Mensa</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Vauban,_Freiburg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Freiburg im Breisgau</a>, <em>Vauban District</em>.</p>
+  <p><a href="https://www.kstw.de/mensa?tx_epwerkbuilding_buildingplugin[action]=show&tx_epwerkbuilding_buildingplugin[buildingid]=1&tx_epwerkbuilding_buildingplugin[controller]=Building&cHash=6a70d60558de03358fd38efbfbfe58ac" target="_blank" style="text-decoration: none; color: cornflowerblue;">Köln</a>, <em>Mensa Zülpicher</em>.</p>
    <p><a href="https://en.wikipedia.org/wiki/Vauban,_Freiburg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Berlin</a>, <em>Sisyphos Nightclub</em>.</p>
    <p><a href="https://www.lenbachhaus.de/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Munich</a>, <em>Lenbachhaus Art Museum</em>.</p>
 </div>
 
 <div class="reading-group">
-  <p><a href="https://www.youtube.com/watch?v=BlO6Eu7IqNU&list=RDBlO6Eu7IqNU&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Life Is Long</a>, <em>Brian Eno &amp; David Byrne</em>.</p>
-  <p><a href="https://www.youtube.com/watch?v=-ltPQnZGI9Y&list=RD-ltPQnZGI9Y&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Small Hours</a>, <em>John Martyn</em>.</p>
-  <p><a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">I Wish I Knew How It Would Feel to Be Free</a>, <em>Nina Simone</em>.</p>
+  <p><a href="https://www.youtube.com/watch?v=BlO6Eu7IqNU&list=RDBlO6Eu7IqNU&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Copenhagen </a>, <em> Freetown Christiania </em>.</p>
+  <p><a href="https://oslobadstuforening.no/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Oslo</a>, <em>Floating Sauna</em>.</p>
+  <p><a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken Park</em>.</p>
 </div>
 
 <style>
