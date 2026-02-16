@@ -75,7 +75,6 @@
   <p><a href="https://en.wikipedia.org/wiki/Golden_Gate_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">San Francisco</a>, <em>Golden Gate Park</em>.</p>
   <p><a href="https://fasancoffee.us/" target="_blank" style="text-decoration: none; color: cornflowerblue;">New York City</a>, <em>Fasan Coffee Shop</em>.</p>
 </div>
-
 <div class="reading-group">
   <p><a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: cornflowerblue;">Tübingen</a>, <em>Amazon Science Office</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Vauban,_Freiburg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Freiburg im Breisgau</a>, <em>Vauban District</em>.</p>
@@ -83,14 +82,11 @@
    <p><a href="https://sisyphos-berlin.net/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Berlin</a>, <em>Sisyphos Nightclub</em>.</p>
    <p><a href="https://www.lenbachhaus.de/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Munich</a>, <em>Lenbachhaus Art Museum</em>.</p>
 </div>
-
 <div class="reading-group">
   <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Copenhagen </a>, <em> Freetown Christiania </em>.</p>
   <p><a href="https://oslobadstuforening.no/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Oslo</a>, <em>Floating Sauna</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken</em>.</p>
 </div>
-
-
 <div class="reading-group">
   <p><a href="https://claudemonetgiverny.fr/en/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Giverny </a>, <em> Monet's House and Gardens </em>.</p>
   <p><a href="https://maps.app.goo.gl/ffzAYngWdtyxVoaKA?g_st=i&utm_campaign=ac-im" target="_blank" style="text-decoration: none; color: cornflowerblue;">Paris</a>, <em>Crow Lounge</em>.</p>
