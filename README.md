@@ -48,7 +48,7 @@
 -->
 
 ---
-## Books, Art, and Music
+## Books, Art, Music and Places
 <div class="reading-group">
   <p><a href="https://openlms.elearningmedia.es/pluginfile.php/4014/mod_book/chapter/201/Outlines%20of%20Pyrronism.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Skeptic Way</a>, <em>Benson Mates</em>.</p>
   <p><a href="https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">Against Method</a>, <em>Paul Feyerabend</em>.</p>
@@ -70,19 +70,6 @@
   <p><a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">I Wish I Knew How It Would Feel to Be Free</a>, <em>Nina Simone</em>.</p>
 </div>
 
-<style>
-  /* Tighten items within each group */
-  .reading-group p { margin: 0; }
-  .reading-group p + p { margin-top: 2px; }   /* tiny inner gap (optional) */
-
-  /* Add space between the two groups */
-  .reading-group + .reading-group { margin-top: 12px; }
-</style>
-
-
-
----
-## Places
 <div class="reading-group">
   <p><a href="https://en.wikipedia.org/wiki/Echo_Mountain" target="_blank" style="text-decoration: none; color: cornflowerblue;">Los Angeles</a>, <em>Echo Mountain</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Golden_Gate_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">San Francisco</a>, <em>Golden Gate Park</em>.</p>
@@ -102,6 +89,15 @@
   <p><a href="https://oslobadstuforening.no/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Oslo</a>, <em>Floating Sauna</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken</em>.</p>
 </div>
+
+
+<div class="reading-group">
+  <p><a href="https://claudemonetgiverny.fr/en/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Giverny </a>, <em> Monet's House and Gardens </em>.</p>
+  <p><a href="https://maps.app.goo.gl/ffzAYngWdtyxVoaKA?g_st=i&utm_campaign=ac-im" target="_blank" style="text-decoration: none; color: cornflowerblue;">Paris</a>, <em>Crow Lounge</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken</em>.</p>
+</div>
+
+
 
 <style>
   /* Tighten items within each group */
