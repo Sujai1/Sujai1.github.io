@@ -88,7 +88,7 @@
     <p><a href="https://www.geitenboerderij.nl/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Amsterdam </a>, <em> Ridammerhoeve Goat Farm </em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Zuid-Kennemerland_National_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">Zandvoort </a>, <em> Zuid-Kennemerland National Park </em>.</p>
   <p><a href="https://cs.wikipedia.org/wiki/Riegrovy_sady" target="_blank" style="text-decoration: none; color: cornflowerblue;">Prague</a>, <em>Riegrovy Sady Park</em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Vienna</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/File:Prater_hauptallee.jpg" target="_blank" style="text-decoration: none; color: cornflowerblue;">Vienna</a>, <em>Prater Hauptallee Park</em>.</p>
   <p><a href="https://retrovenezia.it/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Venice</a>, <em>Retro Jazz Bar</em>.</p>
   <p><a href="https://www.gelateriafassi.com/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Rome</a>, <em> Fassi Gelateria</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Naples</a>, <em>Pildammsparken</em>.</p>
