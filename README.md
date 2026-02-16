@@ -74,6 +74,7 @@
   <p><a href="https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)" target="_blank" style="text-decoration: none; color: cornflowerblue;">12 Angry Men </a>, <em> Reginald Rose</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/The_Day_He_Arrives" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Day He Arrives</a>, <em>Hong Sang-Soo</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/The_Man_Who_Sleeps" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Man Who Sleeps</a>, <em>Georges Perec</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Enter_the_Void" target="_blank" style="text-decoration: none; color: cornflowerblue;">Enter the Void</a>, <em>Gaspar Noé</em>.</p>
 </div>
 
 <div class="reading-group">
