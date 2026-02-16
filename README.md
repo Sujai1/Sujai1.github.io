@@ -84,7 +84,7 @@
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://claudemonetgiverny.fr/en/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Giverny </a>, <em> Monet's House and Gardens </em>.</p>
   <p><a href="https://maps.app.goo.gl/ffzAYngWdtyxVoaKA?g_st=i&utm_campaign=ac-im" target="_blank" style="text-decoration: none; color: cornflowerblue;">Paris</a>, <em>Crow Lounge</em>.</p>
-  <p><a href="https://maps.app.goo.gl/ffzAYngWdtyxVoaKA?g_st=i&utm_campaign=ac-im" target="_blank" style="text-decoration: none; color: cornflowerblue;">Strasbourg</a>, <em>Crow Lounge</em>.</p>
+  <p><a href="https://fr.wikipedia.org/wiki/Parc_du_Contades_(Strasbourg)" target="_blank" style="text-decoration: none; color: cornflowerblue;">Strasbourg</a>, <em>Parc du Contades</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken</em>.</p>
     <p><a href="https://www.geitenboerderij.nl/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Amsterdam </a>, <em> Ridammerhoeve Goat Farm </em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Zuid-Kennemerland_National_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">Zandvoort </a>, <em> Zuid-Kennemerland National Park </em>.</p>
