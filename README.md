@@ -82,7 +82,7 @@
 
 
 ---
-## Places I Love
+## Places
 <div class="reading-group">
   <p><a href="https://en.wikipedia.org/wiki/Echo_Mountain" target="_blank" style="text-decoration: none; color: cornflowerblue;">Los Angeles</a>, <em>Echo Mountain</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Golden_Gate_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">San Francisco</a>, <em>Golden Gate Park</em>.</p>
