@@ -88,15 +88,16 @@
   <p><a href="https://maps.app.goo.gl/ffzAYngWdtyxVoaKA?g_st=i&utm_campaign=ac-im" target="_blank" style="text-decoration: none; color: cornflowerblue;">Paris</a>, <em>Crow Lounge</em>.</p>
   <p><a href="https://maps.app.goo.gl/ffzAYngWdtyxVoaKA?g_st=i&utm_campaign=ac-im" target="_blank" style="text-decoration: none; color: cornflowerblue;">Strasbourg</a>, <em>Crow Lounge</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken</em>.</p>
-    <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Amsterdam </a>, <em> Freetown Christiania </em>.</p>
+    <p><a href="https://www.geitenboerderij.nl/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Amsterdam </a>, <em> Ridammerhoeve Goat Farm </em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Zuid-Kennemerland_National_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">Zandvoort </a>, <em> Zuid-Kennemerland National Park </em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Prague</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Vienna</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Venice</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Rome</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Naples</a>, <em>Pildammsparken</em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Zürich</a>, <em>Pildammsparken</em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Lucerne</a>, <em>Pildammsparken</em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Bern</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/ETH_Zurich" target="_blank" style="text-decoration: none; color: cornflowerblue;">Zürich</a>, <em>ETH Zürich</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Lake_Lucerne" target="_blank" style="text-decoration: none; color: cornflowerblue;">Lucerne</a>, <em>Lake Lucerne</em>.</p>
+  <p><a href="https://www.kunstmuseumbern.ch/en" target="_blank" style="text-decoration: none; color: cornflowerblue;">Bern</a>, <em>Kunst Art Museum</em>.</p>
   <p><a href="https://kunstmuseumbasel.ch/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Basel</a>, <em>Kunst Art Museum</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Round_Pond_(London)" target="_blank" style="text-decoration: none; color: cornflowerblue;">London </a>, <em> Round Pound </em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Balat,_Fatih" target="_blank" style="text-decoration: none; color: cornflowerblue;">Istanbul </a>, <em> Balat Neighborhood </em>.</p>
