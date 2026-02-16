@@ -92,8 +92,8 @@
   <p><a href="https://en.wikipedia.org/wiki/Zuid-Kennemerland_National_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">Zandvoort </a>, <em> Zuid-Kennemerland National Park </em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Prague</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Vienna</a>, <em>Pildammsparken</em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Venice</a>, <em>Pildammsparken</em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Rome</a>, <em>Pildammsparken</em>.</p>
+  <p><a href="https://retrovenezia.it/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Venice</a>, <em>Retro Jazz Bar</em>.</p>
+  <p><a href="https://www.gelateriafassi.com/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Rome</a>, <em> Fassi Gelateria</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Naples</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/ETH_Zurich" target="_blank" style="text-decoration: none; color: cornflowerblue;">Zürich</a>, <em>ETH Zürich</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Lake_Lucerne" target="_blank" style="text-decoration: none; color: cornflowerblue;">Lucerne</a>, <em>Lake Lucerne</em>.</p>
