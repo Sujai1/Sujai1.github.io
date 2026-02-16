@@ -79,8 +79,6 @@
   <p><a href="https://www.kstw.de/mensa?tx_epwerkbuilding_buildingplugin[action]=show&tx_epwerkbuilding_buildingplugin[buildingid]=1&tx_epwerkbuilding_buildingplugin[controller]=Building&cHash=6a70d60558de03358fd38efbfbfe58ac" target="_blank" style="text-decoration: none; color: cornflowerblue;">Köln</a>, <em>Mensa Zülpicher</em>.</p>
    <p><a href="https://sisyphos-berlin.net/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Berlin</a>, <em>Sisyphos Nightclub</em>.</p>
    <p><a href="https://www.lenbachhaus.de/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Munich</a>, <em>Lenbachhaus Art Museum</em>.</p>
-    <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Frankfurt </a>, <em> Freetown Christiania </em>.</p>
-    <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Stuttgart </a>, <em> Freetown Christiania </em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Copenhagen </a>, <em> Freetown Christiania </em>.</p>
   <p><a href="https://oslobadstuforening.no/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Oslo</a>, <em>Floating Sauna</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Mälmo</a>, <em>Pildammsparken</em>.</p>
