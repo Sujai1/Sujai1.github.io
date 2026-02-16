@@ -97,9 +97,9 @@
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Zürich</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Lucerne</a>, <em>Pildammsparken</em>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Bern</a>, <em>Pildammsparken</em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Pildammsparken" target="_blank" style="text-decoration: none; color: cornflowerblue;">Basel</a>, <em>Pildammsparken</em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">London </a>, <em> Freetown Christiania </em>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Freetown_Christiania" target="_blank" style="text-decoration: none; color: cornflowerblue;">Istanbul </a>, <em> Freetown Christiania </em>.</p>
+  <p><a href="https://kunstmuseumbasel.ch/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Basel</a>, <em>Kunst Art Museum</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Round_Pond_(London)" target="_blank" style="text-decoration: none; color: cornflowerblue;">London </a>, <em> Round Pound </em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Balat,_Fatih" target="_blank" style="text-decoration: none; color: cornflowerblue;">Istanbul </a>, <em> Balat Neighborhood </em>.</p>
     <p><a href="https://en.wikipedia.org/wiki/Tijuca_National_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">Rio di Janeiro </a>, <em> Tijuca National Park </em>.</p>
       <p><a href="https://en.wikipedia.org/wiki/Whistler_Blackcomb" target="_blank" style="text-decoration: none; color: cornflowerblue;">Vancouver </a>, <em> Whistler Blackcomb Ski Resort </em>.</p>
         <p><a href="https://www.coronado.ca.us/244/Coronado-Beach" target="_blank" style="text-decoration: none; color: cornflowerblue;">San Diego </a>, <em> Coronado Beach </em>.</p>
