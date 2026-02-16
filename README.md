@@ -48,7 +48,7 @@
 -->
 
 ---
-## Books, Art, Music and Places
+## Books, Art, Music, Movies and Places
 <div class="reading-group">
   <p><a href="https://openlms.elearningmedia.es/pluginfile.php/4014/mod_book/chapter/201/Outlines%20of%20Pyrronism.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Skeptic Way</a>, <em>Benson Mates</em>.</p>
   <p><a href="https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">Against Method</a>, <em>Paul Feyerabend</em>.</p>
@@ -68,6 +68,12 @@
   <p><a href="https://www.youtube.com/watch?v=BlO6Eu7IqNU&list=RDBlO6Eu7IqNU&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Life Is Long</a>, <em>Brian Eno &amp; David Byrne</em>.</p>
   <p><a href="https://www.youtube.com/watch?v=-ltPQnZGI9Y&list=RD-ltPQnZGI9Y&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">Small Hours</a>, <em>John Martyn</em>.</p>
   <p><a href="https://www.youtube.com/watch?v=inNBpizpZkE&list=RDinNBpizpZkE&start_radio=1" target="_blank" style="text-decoration: none; color: cornflowerblue;">I Wish I Knew How It Would Feel to Be Free</a>, <em>Nina Simone</em>.</p>
+</div>
+
+<div class="reading-group">
+  <p><a href="https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)" target="_blank" style="text-decoration: none; color: cornflowerblue;">Life Is Long</a>, <em> 12 Angry Men &amp; Reginald Rose</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/The_Day_He_Arrives" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Day He Arrives</a>, <em>Hong Sang-Soo</em>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/The_Man_Who_Sleeps" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Man Who Sleeps</a>, <em>Georges Perec</em>.</p>
 </div>
 
 <div class="reading-group">
