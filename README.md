@@ -48,7 +48,7 @@
 -->
 
 ---
-## Books, Art, Music, Movies and Places
+## Books, Art, Music, Movies, Places and Communities
 <div class="reading-group">
   <p><a href="https://openlms.elearningmedia.es/pluginfile.php/4014/mod_book/chapter/201/Outlines%20of%20Pyrronism.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">The Skeptic Way</a>, <em>Benson Mates</em>.</p>
   <p><a href="https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf" target="_blank" style="text-decoration: none; color: cornflowerblue;">Against Method</a>, <em>Paul Feyerabend</em>.</p>
@@ -108,6 +108,13 @@
     <p><a href="https://en.wikipedia.org/wiki/Tijuca_National_Park" target="_blank" style="text-decoration: none; color: cornflowerblue;">Rio de Janeiro </a>, <em> Tijuca National Park</em>.</p>
       <p><a href="https://en.wikipedia.org/wiki/Whistler_Blackcomb" target="_blank" style="text-decoration: none; color: cornflowerblue;">Vancouver </a>, <em> Whistler Blackcomb Ski Resort</em>.</p>
         <p><a href="https://www.coronado.ca.us/244/Coronado-Beach" target="_blank" style="text-decoration: none; color: cornflowerblue;">San Diego </a>, <em> Coronado Beach</em>.</p>
+
+
+<div class="reading-group">
+  <p><a href="https://philosophy.club/" target="_blank" style="text-decoration: none; color: cornflowerblue;">New York Philosophy Club </a>, <em>discussing philosophical topics</em>.</p>
+  <p><a href="https://notes.ekzhang.com/events/nysrg" target="_blank" style="text-decoration: none; color: cornflowerblue;">New York Systems Reading Group</a>, <em>learning about computer systems</em>.</p>
+  <p><a href="https://collider.nyc/" target="_blank" style="text-decoration: none; color: cornflowerblue;">Collider</a>, <em>coworking for ai safety</em>.</p>
+</div>
 
 
   
