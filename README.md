@@ -18,7 +18,7 @@
   *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Patrick Blöbaum, Elke Kirschbaum, Kyra Gan, Krishna Balasubramanian, Shiva Prasad Kasiviswanathan.*<br>
   
 **From Detection to Attribution: Identifying Malicious Documents in Prompt Injection Attacks on LLM Agents via Root Cause Analysis**<br>
-  *<span style="text-decoration: underline;">Sujai Hiremath</span>.*<br>
+  *<span style="text-decoration: underline;">Sujai Hiremath, Dominik Janzing</span>.*<br>
 
 ---
 ## Publications
