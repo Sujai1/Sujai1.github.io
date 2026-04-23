@@ -2,8 +2,11 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    I am an ORIE PhD at <a href="https://tech.cornell.edu/research/" target="_blank" style="text-decoration: none; color: blue;">Cornell Tech</a>, NYC. In 2023 I received my B.S. in Applied and Computational Mathematics from <a href="https://www.caltech.edu/research" target="_blank" style="text-decoration: none; color: blue;">Caltech</a>, Pasadena. In 2025 I explored the intersection of causality, LLMs, and RL as a RS intern at <a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: blue;">Amazon Science</a>, Tübingen Germany. In 2026 I am exploring post-training, reward modelling and agentic security as a RS intern at <a href="https://www.amazon.science/locations/san-francisco-bay-area" target="_blank" style="text-decoration: none; color: blue;">Amazon Science</a>, San Francisco.<br><br>
-    I am motivated by a curiosity of the world. I enjoy research collabs and helping to organize NYC AI Safety meetups - feel free to reach out :)
+I work as a researcher at <a href="https://www.fleetai.com/about" target="_blank" style="text-decoration: none; color: blue;">Fleet AI</a>, SF. I'm hopeful to have a positive impact on the way frontier models are post-trained :)
+    
+In 2023 I received my B.S. in Applied and Computational Mathematics from <a href="https://www.caltech.edu/research" target="_blank" style="text-decoration: none; color: blue;">Caltech</a>, Pasadena. In late 2025 I explored the intersection of causality, LLMs, and RL as a RS intern at <a href="https://www.amazon.science/locations/tubingen" target="_blank" style="text-decoration: none; color: blue;">Amazon Science</a>, Tübingen Germany. In early 2026 I explored post-training, reward modelling and agentic security with <a href="https://www.amazon.science/locations/san-francisco-bay-area" target="_blank" style="text-decoration: none; color: blue;">Amazon Science</a>, San Francisco.<br><br>. In April 2026 I went on leave from my PhD at <a href="https://tech.cornell.edu/research/" target="_blank" style="text-decoration: none; color: blue;">Cornell Tech</a>, NYC. 
+
+I am motivated by a curiosity of the world. I enjoy research collabs and helping drive forward AI Safety - feel free to reach out :)
   </div>
   <div style="margin-left: 20px;">
     <img src="Hiremath, Sujai.png" alt="Your Name" style="width:150px; border-radius:50%;">
