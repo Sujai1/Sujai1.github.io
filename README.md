@@ -15,7 +15,7 @@ I work as a researcher at <a href="https://www.fleetai.com/about" target="_blank
   </div>
 </div>
 <br>
- [Google Scholar]({{ site.scholar_url}})| [Contact](mailto:sh2583&#64;cornell&#46;edu) | [LinkedIn]({{ site.linkedin_url }}) | [CV](/Resume.pdf) 
+ [Google Scholar]({{ site.scholar_url}})| [Contact](mailto:sujai&#64;fleet&#46;so) | [LinkedIn]({{ site.linkedin_url }}) | [CV](/Resume.pdf) 
 
 ---
 ## Drafts
