@@ -19,11 +19,6 @@ I work as a researcher at <a href="https://www.fleetai.com/about" target="_blank
 
 ---
 ## Drafts
-**Towards Efficient Representations for Reward Modeling and Reinforcement Learning via Rank Regularization**  
-  *<span style="text-decoration: underline;">Sujai Hiremath</span>, Dominik Janzing, Patrick Blöbaum, Elke Kirschbaum, Kyra Gan, Krishna Balasubramanian, Shiva Prasad Kasiviswanathan.*<br>
-  
-**From Detection to Attribution: Identifying Malicious Documents in Prompt Injection Attacks on LLM Agents via Root Cause Analysis**<br>
-  *<span style="text-decoration: underline;">Sujai Hiremath, Dominik Janzing</span>.*<br>
 
 ---
 ## Publications
