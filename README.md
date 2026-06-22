@@ -21,7 +21,7 @@ I work as a researcher at <a href="https://www.fleetai.com/about" target="_blank
 ## Drafts
 **MacroBench: Measuring Frontier LLM Macroeconomic Forecasting Ability**  
   *Arjun Neervannan, <span style="text-decoration: underline;">Sujai Hiremath</span>, Sumiran Singh Thakur, Guanghan Ning, Deniz Zorlu.*<br>
-  [![Click Me](https://img.shields.io/badge/ICML%20Forecasting%20Workshop%202026-%23003399?style=plastic)](https://forecasting-workshop.github.io/) 
+  [![Click Me](https://img.shields.io/badge/ICML%202026%20Forecasting%20Workshop-%23003399?style=plastic)](https://forecasting-workshop.github.io/) 
   
 ---
 ## Publications
